@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-event-board-app/static/css/main.7a90d5d0.chunk.css",
+    "main.js": "/react-event-board-app/static/js/main.500fde08.chunk.js",
+    "main.js.map": "/react-event-board-app/static/js/main.500fde08.chunk.js.map",
+    "runtime-main.js": "/react-event-board-app/static/js/runtime-main.d6428ef5.js",
+    "runtime-main.js.map": "/react-event-board-app/static/js/runtime-main.d6428ef5.js.map",
+    "static/js/2.62f5cece.chunk.js": "/react-event-board-app/static/js/2.62f5cece.chunk.js",
+    "static/js/2.62f5cece.chunk.js.map": "/react-event-board-app/static/js/2.62f5cece.chunk.js.map",
+    "index.html": "/react-event-board-app/index.html",
+    "static/css/main.7a90d5d0.chunk.css.map": "/react-event-board-app/static/css/main.7a90d5d0.chunk.css.map",
+    "static/js/2.62f5cece.chunk.js.LICENSE.txt": "/react-event-board-app/static/js/2.62f5cece.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6428ef5.js",
+    "static/js/2.62f5cece.chunk.js",
+    "static/css/main.7a90d5d0.chunk.css",
+    "static/js/main.500fde08.chunk.js"
+  ]
+}
